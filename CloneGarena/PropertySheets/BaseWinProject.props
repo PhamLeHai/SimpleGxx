@@ -3,8 +3,8 @@
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
-    <OutDir>$(SolutionDir)\_Output\$(Configuration)\</OutDir>
-    <IntDir>$(SolutionDir)\_Output\$(Configuration)\</IntDir>
+    <OutDir>$(SolutionDir)\_Output\$(Configuration)\$(ProjectName)\</OutDir>
+    <IntDir>$(SolutionDir)\_Output\Intermediate\$(Configuration)\$(ProjectName)</IntDir>
     <LibraryPath>$(SolutionDir)\_3PartyLibs\;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup />
