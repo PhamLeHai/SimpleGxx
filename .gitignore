@@ -2,3 +2,5 @@
 /CloneGarena/*.opensdf
 /CloneGarena/_Output
 /CloneGarena/_3PartyLibs.lnk
+/CloneGarena/*.suo
+/CloneGarena/BaseProject/*.user
